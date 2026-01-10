@@ -3,12 +3,12 @@
 
 - 🌱 Atualmente estou aprendendo **Novas tecnologias, frameworks e aprimorando minhas habilidades Full Stack: foco em desenvolvimento back-end com Java e especialização no front-end com Angular e React.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/eduardosousa-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eduardosousa-dev" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <!-- FRONT-END -->
 <p align="left">
   <strong>Front-end</strong><br><br>
@@ -87,7 +87,7 @@
   </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardos-png&show_icons=true&theme=tokyonight&title_color=843cdd&text_color=fe6767&bg_color=002e6b&hide_border=true&cache_seconds=1800&locale=pt&layout=compact" alt="EduardoS-png" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardos-png&show_icons=true&theme=tokyonight&title_color=843cdd&text_color=fe6767&bg_color=002e6b&hide_border=true&locale=pt" alt="EduardoS-png" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardos-png&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardos-png&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
