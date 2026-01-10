@@ -88,6 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardos-png&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardos-png&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoS-png&layout=compact&theme=tokyonight&hide_border=true&locale=pt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoS-png&show_icons=true&theme=tokyonight&hide_border=true&locale=pt" />
 </p>
+
