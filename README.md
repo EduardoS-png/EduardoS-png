@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Eduardo</h1>
+<h1 align="center">Olá, eu sou Eduardo Sousa</h1>
 <h3 align="center">💻 Desenvolvedor Full Stack apaixonado por tecnologia</h3>
 
 - 🌱 Atualmente estou aprendendo **Novas tecnologias, frameworks e aprimorando minhas habilidades Full Stack: foco em desenvolvimento back-end com Java e especialização no front-end com Angular e React.**
