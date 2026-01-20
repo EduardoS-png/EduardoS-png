@@ -1,94 +1,60 @@
-<h1 align="center">Olá, eu sou Eduardo Sousa</h1>
-<h3 align="center">💻 Desenvolvedor Full Stack apaixonado por tecnologia</h3>
+<h1 align="left">Eduardo de Sousa</h1>
 
-- 🌱 Atualmente estou aprendendo **Novas tecnologias, frameworks e aprimorando minhas habilidades Full Stack: foco em desenvolvimento back-end com Java e especialização no front-end com Angular e React.**
+###
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/eduardosousa-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eduardosousa-dev" height="30" width="40" /></a>
-</p>
+<p align="left">Me chamo Eduardo de Sousa, tenho 18 anos e sou natural de Pernambuco. Sou Desenvolvedor Full Stack, com foco em aprendizado contínuo e boas práticas de desenvolvimento. Tenho interesse em tecnologia, programação e resolução de problemas, atuando tanto no front-end quanto no back-end.<br>Atualmente, estou me aprofundando em desenvolvimento back-end com Java e Spring e me especializando no front-end com Angular e React, sempre buscando evoluir minhas habilidades técnicas e profissionais.</p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<!-- FRONT-END -->
-<p align="left">
-  <strong>Front-end</strong><br><br>
+###
 
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<div align="left">
+  <a href="www.linkedin.com/in/eduardosousa-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+</div>
 
-<br>
+###
 
-<!-- BACK-END -->
-<p align="left">
-  <strong>Back-end</strong><br><br>
+<h2 align="left">Linguagens e tecnologias</h2>
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+###
 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+</div>
 
-<br>
+###
 
-<!-- BANCO DE DADOS -->
-<p align="left">
-  <strong>Banco de Dados</strong><br><br>
+<h2 align="left">Estatísticas</h2>
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+###
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoS-png&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=maroongold&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoS-png&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-</p>
+###
 
-<br>
+<img src="https://raw.githubusercontent.com/EduardoS-png/EduardoS-png/output/snake.svg" alt="Snake animation" />
 
-<!-- FERRAMENTAS -->
-<p align="left">
-  <strong>Ferramentas</strong><br><br>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoS-png&layout=compact&theme=tokyonight&hide_border=true&locale=pt" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoS-png&show_icons=true&theme=tokyonight&hide_border=true&locale=pt" />
-</p>
-
+###
