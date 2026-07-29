@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Eduardo de Sousa, tenho 18 anos e sou natural de Pernambuco. Sou Desenvolvedor Full Stack, com foco em aprendizado contínuo e boas práticas de desenvolvimento. Tenho interesse em tecnologia, programação e resolução de problemas, atuando tanto no front-end quanto no back-end.<br>Atualmente, estou me aprofundando em desenvolvimento back-end com Java e Spring e me especializando no front-end com Angular e React, sempre buscando evoluir minhas habilidades técnicas e profissionais.</p>
+<p align="left">Me chamo Eduardo de Sousa, tenho 19 anos e sou natural de Pernambuco. Sou Desenvolvedor Full Stack, com foco em aprendizado contínuo e boas práticas de desenvolvimento. Tenho interesse em tecnologia, programação e resolução de problemas, atuando tanto no front-end quanto no back-end.<br>Atualmente, estou me aprofundando em desenvolvimento back-end com Java e Spring e me especializando no front-end com Angular e React, sempre buscando evoluir minhas habilidades técnicas e profissionais.</p>
 
 ###
 
